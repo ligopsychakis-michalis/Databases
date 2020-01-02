@@ -1,6 +1,6 @@
 # Homework Databases Week 3
 
-## **Todo list**
+## **Todo - list**
 
 1. Practice the concepts
 2. MySQL exercises
